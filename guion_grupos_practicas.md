@@ -1,4 +1,4 @@
-# Guión para la creación de grupos de trabajo en las prácticas de ecología
+# Práctica: Herramientas y métodos para trabajar en equipo
 
 
 > + **_Versión_**: 2024-2025
@@ -13,6 +13,7 @@
 - tomar conciencia de la importancia de trabajar en equipo
 - Conocernos mejor como individuos y como grupo
 - Construir equipos homogéneos entre sí y diversos internamente
+- Aprender a manejar herramientas digitales que promueven el trabajo en equipo
 
 
 
@@ -24,6 +25,11 @@
   + los trabajos son mejores cuando se hacen en un equipo bien conformado y coordinado
   + Parte de los males del mundo se deben a que no sabemos trabajar en equipo.
 + ddd
++ Creación de equipos
++ Herramientas para promover el trabajo en equipo
+  + Comunicación y almacenamiento de datos: Microsoft Teams
+  + Publicación de resultados en la Web: Google Sites
+
 
 ## Cómo creamos los equipos
 
