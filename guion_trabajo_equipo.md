@@ -69,7 +69,7 @@ Para realizar satisfactoriamente el trabajo grupal que os encargaremos en breve,
 
 Para crear los equipos usaremos una técnica que consiste en que cada estudiante se autoevaluará con relación a las competencias anteriores. Como tarde el día 15 de septiembre a las 23:59 tendrás que completar [este](https://forms.office.com/Pages/ResponsePage.aspx?id=13GcfPkAbUeNBfUavU7CKvXSfMZUc71HpR4AMSoJrd5UQUJTQktMODhTRjVJS1g2SkRCRjFROUJVWi4u) formulario de la forma más honesta que puedas. Con la información suministrada por cada estudiante generaremos una propuesta de equipos de trabajo. Seguramente no te tocará trabajar con tus amigos, pero sí con compañeros con los que haya cierta compatibilidad de competencias a priori. La siguiente imagen muestra el aspecto de la encuesta anteriormente descrita.
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/P_herramientas_equipo_ecologia_CCAA/master/imagenes/encuesta.png)
+![encuesta](https://raw.githubusercontent.com/aprendiendo-cosas/P_herramientas_equipo_ecologia_CCAA/master/imagenes/encuestaa.png)
 
 
 
