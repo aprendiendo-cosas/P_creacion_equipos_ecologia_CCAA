@@ -69,23 +69,56 @@ Para realizar satisfactoriamente el trabajo grupal que os encargaremos en breve,
 
 Para crear los equipos usaremos una técnica que consiste en que cada estudiante se autoevaluará con relación a las competencias anteriores. Como tarde el día 15 de septiembre a las 23:59 tendrás que completar [este](https://forms.office.com/Pages/ResponsePage.aspx?id=13GcfPkAbUeNBfUavU7CKvXSfMZUc71HpR4AMSoJrd5UQUJTQktMODhTRjVJS1g2SkRCRjFROUJVWi4u) formulario de la forma más honesta que puedas. Con la información suministrada por cada estudiante generaremos una propuesta de equipos de trabajo. Seguramente no te tocará trabajar con tus amigos, pero sí con compañeros con los que haya cierta compatibilidad de competencias a priori. La siguiente imagen muestra el aspecto de la encuesta anteriormente descrita.
 
-![encuesta](https://raw.githubusercontent.com/aprendiendo-cosas/P_herramientas_equipo_ecologia_CCAA/master/imagenes/encuestaa.png)
+
+
+<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_herramientas_equipo_ecologia_CCAA/master/imagenes/survey.png" alt="encuesta" style="zoom:50%;" />
+
+La siguiente tabla (xxxx) muestra los resultados una vez que todos los estudiantes han completado la encuesta. Se ha preservado el anonimato individual. Solo se muestran resultados generales para dar una idea de cómo de "competente" es la clase al inicio del curso con relación a las habilidades descritas anteriormente.
+
+A partir de estos datos se ha aplicado un algoritmo llamado K-means que permite agrupar a los estudiantes maximizando la heterogeneidad interna de los grupos y manteniendo a la vez la similitud entre grupo. Es decir, nos permite tener grupos parecidos entre sí en cuanto competencias. Cada grupo tiene estudiantes con competencias variadas. La siguiente tabla (xxxxxx) muestra la composición de los equipos para este curso.
 
 
 
-+ Mostrar resultados de la encuesta
-+ Mostrar composición de los equipos
+#### 2. Primeros pasos: construyendo equipo a partir de individualidades
+
+Los grupos que hemos creado están formados por personas con habilidades diferentes. Se conocen algo entre sí, pero quizás no lo suficiente como para empezar a trabajar de manera eficaz.
+
+Para "romper el hielo" y para conocer mejor cómo se enfrenta cada miembro del grupo a un problema concreto, haremos una dinámica con piezas de Lego. Luego asignaremos a cada miembro del grupo un papel concreto para velar por su integridad funcional. 
+
+##### Construye un pato...
+
+El profesor repartirá a cada estudiante una bolsita con 6 piezas de Lego. Con esas piezas hay que construir un pato. Sí, un pato, como el Pato Donald o el Pato Lucas. 
+
+Además de pasar un rato divertido, trataremos de darle sentido a esta dinámica con relación a la dinámica de los equipos. Para ello discutiremos de manera conjunta las siguientes preguntas (se incluirán las respuestas elaboradas durante la sesión):
+
++ ¿Cómo de diferentes son los distintos patos que se han creado en los grupos? ¿a qué se pueden deber las diferencias observadas? ¿y las similitudes?
+
++ ¿Qué quiere decir que sean diferentes (o parecidos)?
++ ¿Alguien observa o intuye alguna metáfora que relacione esta dinámica de Lego con el trabajo que debemos hacer?
+
+Las siguientes fotos muestran alguna de las soluciones anatómicas de patos que han surgido durante la dinámica. 
+
+Ahora haremos algo más complejo todavía. Partiendo de las distintas formas de pato generadas por los individuos, trataremos de construir un único pato por grupo. Esto pondrá a prueba nuestras habilidades como integrantes de un equipo de trabajo. Entrenaremos nuestra capacidad de convencer (mi pico es mejor que el tuyo por...) y de dejarse convencer para abordar un objetivo común que trasciende a los individuales.
+
+De nuevo, trataremos de contestar las siguientes preguntas:
+
++ ¿Alguna metáfora en este paso?
++ ¿Qué problemas han surgido a la hora de intentar obtener un único pato?
++ ¿Cómo se han resuelto los conflictos?
+
+Las siguientes imágenes muestran las soluciones patísticas aportadas de forma integral por cada grupo.
+
+##### Asignación de roles dentro del grupo
+
++ método POGIL
+
+###### Evaluación del desempeño del grupo
+
++ un par de veces durante el cuatrimestre os pasaré esta encuesta para ver cómo estáis trabajando juntos
 
 
 
-## Primeros pasos: construyendo equipo a partir de individualidades
 
-
-
-+ 
-+ Dinámica para conocerse mejor: construye un pato
-+ Asignación de roles dentro del equipo de trabajo
-+ ¿ponemos aquí lo de construir un pato conjuntamente y así ponemos en práctica los roles que se han establecido?
 
 
 
