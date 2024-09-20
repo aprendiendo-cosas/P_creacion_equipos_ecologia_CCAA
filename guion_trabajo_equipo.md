@@ -9,14 +9,15 @@
 
 ![portada](https://raw.githubusercontent.com/aprendiendo-cosas/P_herramientas_equipo_ecologia_CCAA/master/imagenes/portada.png)
 
+
+
 ## Objetivos de aprendizaje
+
 Esta primera práctica de la asignatura de ecología tiene una única finalidad: construir equipos de estudiantes que se encargarán de realizar un trabajo específico que durará todo el cuatrimestre. Así pues, esta práctica no tiene ningún objetivo docente relacionado directamente con la ecología. Los objetivos de aprendizaje aquí planteados trascienden a la ecología y aplican a todas las disciplinas y asignaturas. De forma más específica, nos planteamos los siguientes objetivos:
 + Reflexionar y tomar conciencia sobre la utilidad e importancia de trabajar en equipo.
 + Conocernos todos mejor en el contexto de la asignatura que nos ocupa.
 + Construir equipos de trabajo que sean homogéneos entre sí (todos los equipos deberán de tener capacidades similares) y heterogéneos internamente (cada equipo estará formado por personas con habilidades distintas).
 + Aprender a manejar herramientas digitales para facilitar el trabajo en equipo. 
-
-Es importante destacar que abordaremos los objetivos anteriores antes de saber exactamente qué trabajo hay que realizar durante las prácticas de ecología. Se trata de una estrategia deliberada que persigue construir los grupos y fomentar su cohesión interna antes de que reciban un encargo específico. Solamente adelantaré que los equipos conformados tendrán que realizar un trabajo de descripción de distintos tipos de ecosistemas de Sierra Nevada. Analizaremos los detalles de este encargo en la siguiente sesión de prácticas.
 
 
 
@@ -67,13 +68,17 @@ Para realizar satisfactoriamente el trabajo grupal que os encargaremos en breve,
 + Escritura usando lenguaje científico. Una vez obtenida información y analizada, será necesario escribir un texto que resuma los resultados obtenidos. La capacidad de escribir usando de forma fluída un estilo científico-técnico es también muy valiosa para nuestros equipos de trabajo.
 + Capacidad de síntesis. Por último, es importante aprender a resumir y sintetizar información ambiental relevante que se ajuste a las necesidades que tengamos. Por eso en los equipos de trabajo deberá de haber personas que consideren que tienen esta competencia bien entrenada.
 
-Para crear los equipos usaremos una técnica que consiste en que cada estudiante se autoevaluará con relación a las competencias anteriores. Como tarde el día 15 de septiembre a las 23:59 tendrás que completar [este](https://forms.office.com/Pages/ResponsePage.aspx?id=13GcfPkAbUeNBfUavU7CKvXSfMZUc71HpR4AMSoJrd5UQUJTQktMODhTRjVJS1g2SkRCRjFROUJVWi4u) formulario de la forma más honesta que puedas. Con la información suministrada por cada estudiante generaremos una propuesta de equipos de trabajo. Seguramente no te tocará trabajar con tus amigos, pero sí con compañeros con los que haya cierta compatibilidad de competencias a priori. La siguiente imagen muestra el aspecto de la encuesta anteriormente descrita.
+Para crear los equipos usaremos una técnica que consiste en que cada estudiante se autoevaluará con relación a las competencias anteriores. Tendrás que completar [este](https://forms.office.com/Pages/ResponsePage.aspx?id=13GcfPkAbUeNBfUavU7CKvXSfMZUc71HpR4AMSoJrd5UQUJTQktMODhTRjVJS1g2SkRCRjFROUJVWi4u) formulario de la forma más honesta que puedas. Con la información suministrada por cada estudiante generaremos una propuesta de equipos de trabajo. Seguramente no te tocará trabajar con tus amigos, pero sí con compañeros con los que haya cierta compatibilidad de competencias a priori. La siguiente imagen muestra el aspecto de la encuesta anteriormente descrita.
 
 
 
 <img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_herramientas_equipo_ecologia_CCAA/master/imagenes/survey.png" alt="encuesta" style="zoom:50%;" />
 
-La siguiente tabla (xxxx) muestra los resultados una vez que todos los estudiantes han completado la encuesta. Se ha preservado el anonimato individual. Solo se muestran resultados generales para dar una idea de cómo de "competente" es la clase al inicio del curso con relación a las habilidades descritas anteriormente.
+La siguientes gráficas muestra los resultados una vez que todos los estudiantes han completado la encuesta. Se ha preservado el anonimato individual. Solo se muestran resultados generales para dar una idea de cómo de "competente" se considera la clase al inicio del curso con relación a las habilidades descritas anteriormente.
+
+<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_herramientas_equipo_ecologia_CCAA/master/imagenes/busqueda.png" alt="encuesta" style="zoom:100%;" />
+
+
 
 A partir de estos datos se ha aplicado un algoritmo llamado K-means que permite agrupar a los estudiantes maximizando la heterogeneidad interna de los grupos y manteniendo a la vez la similitud entre grupo. Es decir, nos permite tener grupos parecidos entre sí en cuanto competencias. Cada grupo tiene estudiantes con competencias variadas. La siguiente tabla (xxxxxx) muestra la composición de los equipos para este curso.
 
