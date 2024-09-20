@@ -78,9 +78,23 @@ La siguientes gráficas muestra los resultados una vez que todos los estudiantes
 
 <img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_herramientas_equipo_ecologia_CCAA/master/imagenes/busqueda.png" alt="encuesta" style="zoom:100%;" />
 
+<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_herramientas_equipo_ecologia_CCAA/master/imagenes/analisis.png" alt="analisis" style="zoom:100%;" />
+
+<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_herramientas_equipo_ecologia_CCAA/master/imagenes/escritura.png" alt="escritura" style="zoom:100%;" />
 
 
-A partir de estos datos se ha aplicado un algoritmo llamado K-means que permite agrupar a los estudiantes maximizando la heterogeneidad interna de los grupos y manteniendo a la vez la similitud entre grupo. Es decir, nos permite tener grupos parecidos entre sí en cuanto competencias. Cada grupo tiene estudiantes con competencias variadas. La siguiente tabla (xxxxxx) muestra la composición de los equipos para este curso.
+
+<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_herramientas_equipo_ecologia_CCAA/master/imagenes/sintesis.png" alt="sintesis" style="zoom:100%;" />
+
+En resumen, os consideráis moderadamente buenos buscando información, muy buenos sintetizando y resumiendo. Sin embargo, no os consideráis buenos analizando datos ni escribiendo en lenguaje científico-técnico.
+
+A partir de estos datos se ha aplicado un algoritmo  que permite agrupar a los estudiantes maximizando la heterogeneidad interna de los grupos y manteniendo a la vez la similitud entre grupo. Es decir, nos permite tener grupos parecidos entre sí en cuanto competencias. Cada grupo tiene estudiantes con competencias variadas. La siguiente tabla muestra la composición de los equipos para este curso.
+
+<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_herramientas_equipo_ecologia_CCAA/master/imagenes/grupos.png" alt="sintesis" style="zoom:100%;" />
+
+Además, incluimos la siguiente gráfica "radial" que muestra las puntuaciones promedio de los miembros de cada grupo en las cuatro habilidades utilizadas para hacer los equipos. Podemos ver cómo los grupos son diferentes, pero tienen un promedio de habilidad parecido. Es decir, cada uno contiene miembros que se han autoevaluado como buenos en alguno de los criterios elegidos. En cualquier caso, esto es una evaluación preliminar. Seguro que todos terminamos la asignatura siendo estupendos en todos los criterios :) 
+
+<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_herramientas_equipo_ecologia_CCAA/master/imagenes/radial.png" alt="sintesis" style="zoom:100%;" />
 
 
 
