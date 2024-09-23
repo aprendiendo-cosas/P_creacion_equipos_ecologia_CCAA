@@ -7,7 +7,7 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **_Duración_**:  1 sesión de 1.5 horas.
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/P_herramientas_equipo_ecologia_CCAA/master/imagenes/portada.png)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/P_herramientas_equipo_ecologia_CCAA/master/imagenes/portadak.png)
 
 
 
@@ -100,76 +100,6 @@ Además, incluimos la siguiente gráfica "radial" que muestra las puntuaciones p
 
 
 
-#### 2. Primeros pasos: construyendo equipo a partir de individualidades
-
-Los grupos que hemos creado están formados por personas con habilidades diferentes. Se conocen algo entre sí, pero quizás no lo suficiente como para empezar a trabajar de manera eficaz.
-
-Para "romper el hielo" y para conocer mejor cómo se enfrenta cada miembro del grupo a un problema concreto, haremos una dinámica con piezas de Lego. Luego asignaremos a cada miembro del grupo un papel concreto para velar por su integridad funcional. 
-
-##### Construye un pato...
-
-El profesor repartirá a cada estudiante una bolsita con 6 piezas de Lego. Con esas piezas hay que construir un pato. Sí, un pato, como el Pato Donald o el Pato Lucas. 
-
-Además de pasar un rato divertido, trataremos de darle sentido a esta dinámica con relación a la dinámica de los equipos. Para ello discutiremos de manera conjunta las siguientes preguntas (se incluirán las respuestas elaboradas durante la sesión):
-
-+ ¿Cómo de diferentes son los distintos patos que se han creado en los grupos? ¿a qué se pueden deber las diferencias observadas? ¿y las similitudes?
-
-+ ¿Qué quiere decir que sean diferentes (o parecidos)?
-+ ¿Alguien observa o intuye alguna metáfora que relacione esta dinámica de Lego con el trabajo que debemos hacer?
-
-Las siguientes fotos muestran alguna de las soluciones anatómicas de patos que han surgido durante la dinámica. 
-
-
-
-
-
-
-
-Ahora haremos algo más complejo todavía. Partiendo de las distintas formas de pato generadas por los individuos, trataremos de construir un único pato por grupo. Esto pondrá a prueba nuestras habilidades como integrantes de un equipo de trabajo. Entrenaremos nuestra capacidad de convencer (mi pico es mejor que el tuyo por...) y de dejarse convencer para abordar un objetivo común que trasciende a los individuales.
-
-De nuevo, trataremos de contestar las siguientes preguntas:
-
-+ ¿Alguna metáfora en este paso?
-+ ¿Qué problemas han surgido a la hora de intentar obtener un único pato?
-+ ¿Cómo se han resuelto los conflictos?
-
-Las siguientes imágenes muestran las soluciones patísticas aportadas de forma integral por cada grupo.
-
-
-
-
-
-##### Asignación de roles dentro del grupo
-
-En el proceso de creación del pato, habréis visto como cada miembro del equipo tiene una actitud diferente. Alguno de vosotros habrá hecho las veces de líder, proponiendo distintas opciones. En otros casos alguien habrá tratado de mediar en los posibles conflictos, etc. El asunto es que en un grupo de personas siempre adoptamos una serie de papeles. Con objeto de optimizar el desempeño de los grupos, hemos pensado que en cada uno de los equipos haya los siguientes perfiles y que cada uno se adoptado por un miembro del equipo:
-
-+ *Gestor o facilitador*. Este perfil se suele encargar de mantener el foco durante la actividad. Está pendiente de los tiempos y también puede asignar tareas a los demás miembros del grupo. Promueve la conversación y se asegura de que todas las voces son escuchadas. También se encarga de construir el orden del día de cada reunión del grupo. 
-+ *Portavoz o presentador*. Esta persona comunica las preguntas del grupo y las clarificaciones del profesor al resto del equipo. De alguna manera se puede considerar como el portavoz del grupo. También representará al grupo ante los demás equipos de la clase.
-+ *Facilitador o analista estratégico*. Esta persona observa el comportamiento del equipo con respecto al proceso de aprendizaje. Vela por la participación de todos los miembros y se asegura de buscar consenso entre las opiniones diversas que puedan surgir. También informa periódicamente al equipo de cómo él o ella ve el funcionamiento del mismo.
-
-Teniendo en cuenta estas definiciones y el conocimiento (aún preliminar) que tenéis del equipo, deberéis de asignar a cada miembro un perfil. Si hay más miembros que perfiles, habrá un proceso de rotación.
-
-
-
-###### Evaluación del desempeño del grupo
-
-A lo largo del cuatrimestre rellenaréis esta encuesta que permite evaluar el desempeño del grupo. Os ayudará a identificar problemas y a tratar de resolverlos. 
-
-
-
-
-
-
-
-
-
-
-
-## Descripción de herramientas de comunicación disponibles
-+ Microsoft Teams
-  + Chat
-  + Archivos compartidos con onedrive
-+ Publicación de resultados usando Google Sites 
 
 
 
@@ -182,8 +112,13 @@ A lo largo del cuatrimestre rellenaréis esta encuesta que permite evaluar el de
 
 
 
+****
 
+[Aquí](https://github.com/aprendiendo-cosas/P_herramientas_equipo_ecologia_CCAA/archive/refs/tags/2024_2025.zip) puedes un archivo .zip que contiene este guión en formato html y todo el material que incluye.
 
+****
+
+Haz click [aquí](https://github.com/aprendiendo-cosas/P_herramientas_equipo_ecologia_CCAA/releases) para ver cómo ha cambiado este guión en los distintos cursos académicos.
 
 ****
  <p xmlns:cc="http://creativecommons.org/ns#" >El contenido de este repositorio se puede utilizar bajo la siguiente licencia:  <a  href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1"  target="_blank" rel="license noopener noreferrer"  style="display:inline-block;">CC BY-NC-SA 4.0<img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"  alt=""></a></p> 
