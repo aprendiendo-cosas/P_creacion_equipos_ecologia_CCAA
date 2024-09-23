@@ -90,11 +90,13 @@ En resumen, os consideráis moderadamente buenos buscando información, muy buen
 
 A partir de estos datos se ha aplicado un algoritmo  que permite agrupar a los estudiantes maximizando la heterogeneidad interna de los grupos y manteniendo a la vez la similitud entre grupo. Es decir, nos permite tener grupos parecidos entre sí en cuanto competencias. Cada grupo tiene estudiantes con competencias variadas. La siguiente tabla muestra la composición de los equipos para este curso.
 
-<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_herramientas_equipo_ecologia_CCAA/master/imagenes/grupos.png" alt="sintesis" style="zoom:100%;" />
+
+
+<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_herramientas_equipo_ecologia_CCAA/master/imagenes/grupos.png" alt="sintesis" style="zoom:70%;" />
 
 Además, incluimos la siguiente gráfica "radial" que muestra las puntuaciones promedio de los miembros de cada grupo en las cuatro habilidades utilizadas para hacer los equipos. Podemos ver cómo los grupos son diferentes, pero tienen un promedio de habilidad parecido. Es decir, cada uno contiene miembros que se han autoevaluado como buenos en alguno de los criterios elegidos. En cualquier caso, esto es una evaluación preliminar. Seguro que todos terminamos la asignatura siendo estupendos en todos los criterios :) 
 
-<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_herramientas_equipo_ecologia_CCAA/master/imagenes/radial.png" alt="sintesis" style="zoom:100%;" />
+<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_herramientas_equipo_ecologia_CCAA/master/imagenes/radial.png" alt="radial" style="zoom:100%;" />
 
 
 
@@ -117,6 +119,12 @@ Además de pasar un rato divertido, trataremos de darle sentido a esta dinámica
 
 Las siguientes fotos muestran alguna de las soluciones anatómicas de patos que han surgido durante la dinámica. 
 
+
+
+
+
+
+
 Ahora haremos algo más complejo todavía. Partiendo de las distintas formas de pato generadas por los individuos, trataremos de construir un único pato por grupo. Esto pondrá a prueba nuestras habilidades como integrantes de un equipo de trabajo. Entrenaremos nuestra capacidad de convencer (mi pico es mejor que el tuyo por...) y de dejarse convencer para abordar un objetivo común que trasciende a los individuales.
 
 De nuevo, trataremos de contestar las siguientes preguntas:
@@ -127,13 +135,29 @@ De nuevo, trataremos de contestar las siguientes preguntas:
 
 Las siguientes imágenes muestran las soluciones patísticas aportadas de forma integral por cada grupo.
 
+
+
+
+
 ##### Asignación de roles dentro del grupo
 
-+ método POGIL
+En el proceso de creación del pato, habréis visto como cada miembro del equipo tiene una actitud diferente. Alguno de vosotros habrá hecho las veces de líder, proponiendo distintas opciones. En otros casos alguien habrá tratado de mediar en los posibles conflictos, etc. El asunto es que en un grupo de personas siempre adoptamos una serie de papeles. Con objeto de optimizar el desempeño de los grupos, hemos pensado que en cada uno de los equipos haya los siguientes perfiles y que cada uno se adoptado por un miembro del equipo:
+
++ *Gestor o facilitador*. Este perfil se suele encargar de mantener el foco durante la actividad. Está pendiente de los tiempos y también puede asignar tareas a los demás miembros del grupo. Promueve la conversación y se asegura de que todas las voces son escuchadas. También se encarga de construir el orden del día de cada reunión del grupo. 
++ *Portavoz o presentador*. Esta persona comunica las preguntas del grupo y las clarificaciones del profesor al resto del equipo. De alguna manera se puede considerar como el portavoz del grupo. También representará al grupo ante los demás equipos de la clase.
++ *Facilitador o analista estratégico*. Esta persona observa el comportamiento del equipo con respecto al proceso de aprendizaje. Vela por la participación de todos los miembros y se asegura de buscar consenso entre las opiniones diversas que puedan surgir. También informa periódicamente al equipo de cómo él o ella ve el funcionamiento del mismo.
+
+Teniendo en cuenta estas definiciones y el conocimiento (aún preliminar) que tenéis del equipo, deberéis de asignar a cada miembro un perfil. Si hay más miembros que perfiles, habrá un proceso de rotación.
+
+
 
 ###### Evaluación del desempeño del grupo
 
-+ un par de veces durante el cuatrimestre os pasaré esta encuesta para ver cómo estáis trabajando juntos
+A lo largo del cuatrimestre rellenaréis esta encuesta que permite evaluar el desempeño del grupo. Os ayudará a identificar problemas y a tratar de resolverlos. 
+
+
+
+
 
 
 
