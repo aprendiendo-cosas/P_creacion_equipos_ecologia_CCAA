@@ -125,9 +125,11 @@ De nuevo, trataremos de contestar las siguientes preguntas:
 + ¿Qué problemas han surgido a la hora de intentar obtener un único pato?
 + ¿Cómo se han resuelto los conflictos?
 
-Las siguientes imágenes muestran las soluciones patísticas aportadas de forma integral por cada grupo.
+Las siguientes imágenes muestran las soluciones "patísticas" aportadas de forma integral por cada grupo.
 
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/P_herramientas_equipo_ecologia_CCAA/master/imagenes/patos_grupales.png)
 
+Como se puede ver, cada grupo hizo un pato muy diferente al de los demás. Tenemos patos más o menos realistas, otros muy subrealistas. Otros que parecen estar nadando, otros de pie, etc. El mensaje clave es que, después de haber recibido las mismas instrucciones y el mismo material, cada equipo hace un trabajo completamente diferente al de los demás. 
 
 
 
