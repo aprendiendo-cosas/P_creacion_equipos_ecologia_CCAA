@@ -7,7 +7,7 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **_Duración_**:  1 sesión de 1.5 horas.
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/P_herramientas_equipo_ecologia_CCAA/master/imagenes/portadak.png)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/P_herramientas_equipo_ecologia_CCAA/master/imagenes/portada.png)
 
 
 
@@ -97,6 +97,74 @@ A partir de estos datos se ha aplicado un algoritmo  que permite agrupar a los e
 Además, incluimos la siguiente gráfica "radial" que muestra las puntuaciones promedio de los miembros de cada grupo en las cuatro habilidades utilizadas para hacer los equipos. Podemos ver cómo los grupos son diferentes, pero tienen un promedio de habilidad parecido. Es decir, cada uno contiene miembros que se han autoevaluado como buenos en alguno de los criterios elegidos. En cualquier caso, esto es una evaluación preliminar. Seguro que todos terminamos la asignatura siendo estupendos en todos los criterios :) 
 
 <img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_herramientas_equipo_ecologia_CCAA/master/imagenes/radial.png" alt="radial" style="zoom:100%;" />
+
+
+
+#### 2. Primeros pasos: construyendo equipo a partir de individualidades
+
+Los grupos que hemos creado están formados por personas con habilidades diferentes. Se conocen algo entre sí, pero quizás no lo suficiente como para empezar a trabajar de manera eficaz.
+
+Para "romper el hielo" y para conocer mejor cómo se enfrenta cada miembro del grupo a un problema concreto, haremos una dinámica con piezas de Lego. Luego asignaremos a cada miembro del grupo un papel concreto para velar por su integridad funcional. 
+
+##### Construye un pato...
+
+El profesor repartirá a cada estudiante una bolsita con 6 piezas de Lego. Con esas piezas hay que construir un pato. Sí, un pato, como el Pato Donald o el Pato Lucas. 
+
+Además de pasar un rato divertido, trataremos de darle sentido a esta dinámica con relación a la dinámica de los equipos. Para ello discutiremos de manera conjunta las siguientes preguntas (se incluirán las respuestas elaboradas durante la sesión):
+
++ ¿Cómo de diferentes son los distintos patos que se han creado en los grupos? ¿a qué se pueden deber las diferencias observadas? ¿y las similitudes?
+
++ ¿Qué quiere decir que sean diferentes (o parecidos)?
++ ¿Alguien observa o intuye alguna metáfora que relacione esta dinámica de Lego con el trabajo que debemos hacer?
+
+Ahora haremos algo más complejo todavía. Partiendo de las distintas formas de pato generadas por los individuos, trataremos de construir un único pato por grupo. Esto pondrá a prueba nuestras habilidades como integrantes de un equipo de trabajo. Entrenaremos nuestra capacidad de convencer (mi pico es mejor que el tuyo por...) y de dejarse convencer para abordar un objetivo común que trasciende a los individuales.
+
+De nuevo, trataremos de contestar las siguientes preguntas:
+
++ ¿Alguna metáfora en este paso?
++ ¿Qué problemas han surgido a la hora de intentar obtener un único pato?
++ ¿Cómo se han resuelto los conflictos?
+
+Las siguientes imágenes muestran las soluciones patísticas aportadas de forma integral por cada grupo.
+
+
+
+
+
+##### Asignación de roles dentro del grupo
+
+En el proceso de creación del pato, habréis visto como cada miembro del equipo tiene una actitud diferente. Alguno de vosotros habrá hecho las veces de líder, proponiendo distintas opciones. En otros casos alguien habrá tratado de mediar en los posibles conflictos, etc. El asunto es que en un grupo de personas siempre adoptamos una serie de papeles. Con objeto de optimizar el desempeño de los grupos, hemos pensado que en cada uno de los equipos haya los siguientes perfiles y que cada uno se adoptado por un miembro del equipo:
+
++ *Gestor o facilitador*. Este perfil se suele encargar de mantener el foco durante la actividad. Está pendiente de los tiempos y también puede asignar tareas a los demás miembros del grupo. Promueve la conversación y se asegura de que todas las voces son escuchadas. También se encarga de construir el orden del día de cada reunión del grupo. 
++ *Portavoz o presentador*. Esta persona comunica las preguntas del grupo y las clarificaciones del profesor al resto del equipo. De alguna manera se puede considerar como el portavoz del grupo. También representará al grupo ante los demás equipos de la clase.
++ *Analista estratégico*. Esta persona observa el comportamiento del equipo con respecto al proceso de aprendizaje. Vela por la participación de todos los miembros y se asegura de buscar consenso entre las opiniones diversas que puedan surgir. También informa periódicamente al equipo de cómo él o ella ve el funcionamiento del mismo.
++ *Registrador*. Se encarga de anotar los nombres de los participantes en las reuniones. También registra qué se aborda en cada reunión y cómo se realizan las discusiones, cómo ocurre el aprendizaje, etc. Es como una especie de "escriba" que documenta el trabajo y el aprendizaje del equipo. 
+
+
+
+Teniendo en cuenta estas definiciones y el conocimiento (aún preliminar) que tenéis del equipo, deberéis de asignar a cada miembro un perfil. Si hay más miembros que perfiles, habrá un proceso de rotación.
+
+
+
+###### Evaluación del desempeño del grupo
+
+A lo largo del cuatrimestre rellenaréis [esta](https://forms.office.com/e/f6yvn0MiKt) encuesta que permite evaluar el desempeño del grupo. Nos ayudará a identificar problemas y a tratar de resolverlos. La siguiente tabla muestra el contenido de la pregunta principal de la encuesta:
+
+
+
+| Síntomas de reuniones ineficaces                             | Frecuentemente | A veces | Casi nunca |
+| ------------------------------------------------------------ | -------------- | ------- | ---------- |
+| Las reuniones de equipo generalmente comienzan con 5-15 minutos de retraso. |                |         |            |
+| Los miembros a menudo llegan tarde, se van temprano o nunca asisten a las reuniones. |                |         |            |
+| No existe una agenda; los miembros simplemente tienen una vaga noción de lo que quieren lograr. |                |         |            |
+| Uno o dos miembros monopolizan la discusión durante toda la reunión. |                |         |            |
+| Los miembros no han leído la asignación, realizado la investigación de fondo necesaria o hecho lo que se esperaba de ellos. En consecuencia, los individuos están mal preparados para la reunión. |                |         |            |
+| Con palabras o por su apariencia, algunos miembros claramente transmiten que preferirían estar en otro lugar. |                |         |            |
+| Los miembros se interrumpen constantemente entre sí o hablan en parejas sin escuchar a la persona que tiene la palabra. |                |         |            |
+| Los problemas nunca se resuelven, solo se dejan para la próxima vez. |                |         |            |
+| No se desarrolla un plan de acción de seguimiento. Los miembros están confundidos respecto a cuál es el siguiente paso y quién es responsable de llevarlo a cabo. |                |         |            |
+| El mismo individuo o individuos terminan haciendo la mayoría del trabajo. Las reuniones se prolongan y se prolongan sin tener mucho que mostrar por el tiempo invertido en ellas. |                |         |            |
+| Las asignaciones no se completan a tiempo o se completan de manera deficiente. |                |         |            |
 
 
 
