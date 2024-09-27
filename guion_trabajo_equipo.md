@@ -7,7 +7,7 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **_Duración_**:  1 sesión de 1.5 horas.
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/P_herramientas_equipo_ecologia_CCAA/master/imagenes/portada.png)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/P_herramientas_equipo_ecologia_CCAA/2024_2025/imagenes/portada.png)
 
 
 
@@ -47,7 +47,6 @@ Según lo anteriormente expuesto,  trabajar en equipo es positivo desde varios p
 
 
 
-
 ##  Construcción de los equipos de trabajo
 Las ventajas de trabajar en equipo que se han descrito anteriormente ocurren si y solo si el equipo funciona de manera eficaz. En un equipo bien conformado ocurre que el resultado es siempre mejor que la suma de sus partes. Hay "algo" que surge con la interacción de los componentes del equipo que hace que todo funcione mejor. En un equipo los estudiantes interactúan en aspectos diferentes. De forma colaborativa llegan a consensos sobre el contenido del trabajo, sobre la forma de expresar los resultados, etc.  Durante la actividad, cada miembro del equipo es consciente del trabajo que están desarrollando los demás. Esto hace que el resultado final esté bien cohesionado. 
 
@@ -72,19 +71,19 @@ Para crear los equipos usaremos una técnica que consiste en que cada estudiante
 
 
 
-<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_herramientas_equipo_ecologia_CCAA/master/imagenes/survey.png" alt="encuesta" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_herramientas_equipo_ecologia_CCAA/2024_2025/imagenes/survey.png" alt="encuesta" style="zoom:50%;" />
 
 La siguientes gráficas muestra los resultados una vez que todos los estudiantes han completado la encuesta. Se ha preservado el anonimato individual. Solo se muestran resultados generales para dar una idea de cómo de "competente" se considera la clase al inicio del curso con relación a las habilidades descritas anteriormente.
 
-<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_herramientas_equipo_ecologia_CCAA/master/imagenes/busqueda.png" alt="encuesta" style="zoom:100%;" />
+<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_herramientas_equipo_ecologia_CCAA/2024_2025/imagenes/busqueda.png" alt="encuesta" style="zoom:100%;" />
 
-<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_herramientas_equipo_ecologia_CCAA/master/imagenes/analisis.png" alt="analisis" style="zoom:100%;" />
+<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_herramientas_equipo_ecologia_CCAA/2024_2025/imagenes/analisis.png" alt="analisis" style="zoom:100%;" />
 
-<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_herramientas_equipo_ecologia_CCAA/master/imagenes/escritura.png" alt="escritura" style="zoom:100%;" />
+<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_herramientas_equipo_ecologia_CCAA/2024_2025/imagenes/escritura.png" alt="escritura" style="zoom:100%;" />
 
 
 
-<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_herramientas_equipo_ecologia_CCAA/master/imagenes/sintesis.png" alt="sintesis" style="zoom:100%;" />
+<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_herramientas_equipo_ecologia_CCAA/2024_2025/imagenes/sintesis.png" alt="sintesis" style="zoom:100%;" />
 
 En resumen, os consideráis moderadamente buenos buscando información, muy buenos sintetizando y resumiendo. Sin embargo, no os consideráis buenos analizando datos ni escribiendo en lenguaje científico-técnico.
 
@@ -92,11 +91,11 @@ A partir de estos datos se ha aplicado un algoritmo  que permite agrupar a los e
 
 
 
-<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_herramientas_equipo_ecologia_CCAA/master/imagenes/grupos.png" alt="sintesis" style="zoom:70%;" />
+<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_herramientas_equipo_ecologia_CCAA/2024_2025/imagenes/grupos.png" alt="sintesis" style="zoom:70%;" />
 
 Además, incluimos la siguiente gráfica "radial" que muestra las puntuaciones promedio de los miembros de cada grupo en las cuatro habilidades utilizadas para hacer los equipos. Podemos ver cómo los grupos son diferentes, pero tienen un promedio de habilidad parecido. Es decir, cada uno contiene miembros que se han autoevaluado como buenos en alguno de los criterios elegidos. En cualquier caso, esto es una evaluación preliminar. Seguro que todos terminamos la asignatura siendo estupendos en todos los criterios :) 
 
-<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_herramientas_equipo_ecologia_CCAA/master/imagenes/radial.png" alt="radial" style="zoom:100%;" />
+<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_herramientas_equipo_ecologia_CCAA/2024_2025/imagenes/radial.png" alt="radial" style="zoom:100%;" />
 
 
 
@@ -127,7 +126,7 @@ De nuevo, trataremos de contestar las siguientes preguntas:
 
 Las siguientes imágenes muestran las soluciones "patísticas" aportadas de forma integral por cada grupo.
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/P_herramientas_equipo_ecologia_CCAA/master/imagenes/patos_grupales.png)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/P_herramientas_equipo_ecologia_CCAA/2024_2025/imagenes/patos_grupales.png)
 
 Como se puede ver, cada grupo hizo un pato muy diferente al de los demás. Tenemos patos más o menos realistas, otros muy subrealistas. Otros que parecen estar nadando, otros de pie, etc. El mensaje clave es que, después de haber recibido las mismas instrucciones y el mismo material, cada equipo hace un trabajo completamente diferente al de los demás. 
 
@@ -167,14 +166,6 @@ A lo largo del cuatrimestre rellenaréis [esta](https://forms.office.com/e/f6yvn
 | No se desarrolla un plan de acción de seguimiento. Los miembros están confundidos respecto a cuál es el siguiente paso y quién es responsable de llevarlo a cabo. |                |         |            |
 | El mismo individuo o individuos terminan haciendo la mayoría del trabajo. Las reuniones se prolongan y se prolongan sin tener mucho que mostrar por el tiempo invertido en ellas. |                |         |            |
 | Las asignaciones no se completan a tiempo o se completan de manera deficiente. |                |         |            |
-
-
-
-
-
-
-
-
 
 
 
