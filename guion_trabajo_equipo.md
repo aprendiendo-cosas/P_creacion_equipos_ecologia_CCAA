@@ -169,6 +169,17 @@ A lo largo del cuatrimestre rellenaréis [esta](https://forms.office.com/e/f6yvn
 
 
 
+#### 3. Configurando los equipos en Microsoft Teams
+
+Teams es una herramienta de Microsoft cuyo objetivo es facilitar el trabajo de personas que trabajan en equipo. No es la mejor herramienta para esto, pero dado que la Universidad paga la licencia y la pone a nuestra disposición, la usaremos en esta asignatura. Su funcionamiento es bastante intuitivo, pero ahí van algunas ideas generales:
++ Cada equipo está formado por un número determinado de personas. Los equipos pueden ser públicos o privados. En nuestro caso crearemos grupos privados que estarán formados por los estudiantes de cada equipo y por mí, que haré las veces de asesore "externo". Para ser sistemáticos y para hacerme la vida un poco más fácil (tengo acceso a muchos equipos), os pido que cada equipo se nombre de la siguiente forma:
+  + 24_25\_eco\_ccaa\_G[Número del grupo]\_[nombre_ecosistema]. Por ejemplo: 24_25_eco_ccaa_G1_pinares_repoblacion. Es importante que el nombre no tenga ni espacios, ni tildes ni ningún carácter raro.
+
++ Cada equipo tiene distintas funciones que se pueden ver en la parte de arriba del equipo.:
+  + Chat: Pues eso, un chat...
+  + Archivos: Aquí podréis guardar todos los archivos que encontréis de interés y también los que vayáis creando. Es importante que creéis un árbol de carpetas razonable en el que vayáis guardando la información. La clave aquí es pensar en vuestro yo del futuro. Un árbol de carpetas es correcto si nuestro yo del futuro no quisiera matarnos al verlo... Los archivos aquí almacenados se sincronizan en nustro ordenador con OneDrive.
+  + A la derecha de las dos anteriores hay un símbolo de + que nos permite añadir nuevas funcionalidades a Teams. Podéis añadir un calendario, una lista de tareas y muchas más cosas. Sugiero que uséis la opción de añadir notas con OneNote. Es otra herramienta de Microsoft que permite almacenar texto, dibujos, esquemas y muchos tipos de objetos diferentes.
+
 
 
 
@@ -185,3 +196,4 @@ Haz click [aquí](https://github.com/aprendiendo-cosas/P_creacion_equipos_ecolog
  <p xmlns:cc="http://creativecommons.org/ns#" >El contenido de este repositorio se puede utilizar bajo la siguiente licencia:  <a  href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1"  target="_blank" rel="license noopener noreferrer"  style="display:inline-block;">CC BY-NC-SA 4.0<img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"  alt=""></a></p> 
 
 <p>Esta licencia no aplica a enlaces a artículos, libros o imágenes no originales. Estos productos tienen su licencia correspondiente.</p>
+
